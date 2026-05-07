@@ -72,6 +72,7 @@ ul,ol{list-style:none}
 /* Custom */
 .btn-cv{display: flex;justify-content: center;align-items: center;width: fit-content;margin: 5px auto;padding: 12px 20px;background: var(--primary);color: var(--primary-foreground);border: 1px solid transparent;border-radius: 6px;font-size: 14px;font-weight: 500;cursor: pointer;transition: all .2s;box-shadow: var(--shadow-soft);}
 
+
 /* Hero */
 .hero{max-width:1200px;margin:0 auto;padding:64px 24px;display:grid;gap:48px}
 @media(min-width:768px){.hero{grid-template-columns:1fr 1fr;gap:64px;padding:112px 24px}}
